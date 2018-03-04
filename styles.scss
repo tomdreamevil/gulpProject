@@ -1,0 +1,6 @@
+$images: url('http://lorempixel.com/400/200');
+$h1: 87px;
+$p: 18px;
+.images{background-image: $images; height: 200px;}
+h1{font-size: $h1}
+p{font-size: $p}
